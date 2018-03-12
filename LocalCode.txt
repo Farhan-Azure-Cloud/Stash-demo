@@ -1,0 +1,4 @@
+Terraform init
+Terraform Plan
+Terraform apply
+Terraform destory
