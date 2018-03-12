@@ -2,3 +2,6 @@ Terraform init
 Terraform Plan
 Terraform apply
 Terraform destory
+
+Learning Concept of Stashing through this example.
+We have added the local code file.txt with the latest Terraform code for learning stashing.
