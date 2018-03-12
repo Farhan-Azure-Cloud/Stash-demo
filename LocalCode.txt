@@ -6,4 +6,5 @@ Terraform destory
 Learning Concept of Stashing through this example.
 We have added the local code file.txt with the latest Terraform code for learning stashing.
 
-+# ADDED THE NEW LINE TO START THE NEW COMMIT IN LOCAL GIT
+ADDED THE NEW LINE TO START THE NEW COMMIT IN LOCAL GIT AND IN GitHub.com
+
